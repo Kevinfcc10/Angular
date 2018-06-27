@@ -1,3 +1,4 @@
+<!--
 <div class="row">
   <div class=" col-sm-12">
     <h1>Bindings</h1>
@@ -8,6 +9,7 @@
        [innerText]="'Hola amigos'">
     </p>
     <!--<div [innerHTML] = "html" ></div>-->
+<!--
     <h3>Event bindings ()</h3>
     <button
       class="btn btn-block btn-info"
@@ -50,5 +52,29 @@
   </div>
   <div class="col-sm-4"></div>
 </div>
+-->
+
+
+<h1>Componente seleccion</h1>
+
+<div *ngIf="mostrarComponente">
+  <app-seleccion
+    [contador]="contadorDesdePapa"
+  >
+  </app-seleccion>
+</div>
+
+<button class="btn btn-success"
+        (click)="contadorDesdePapa = contadorDesdePapa + 1"
+>
+  Aumentar valor de contador
+</button>
+
+<button class="btn btn-info"
+        (click)="mostrarComponente = !mostrarComponente"
+>
+  Cambiar mostrar seleccion
+</button>
+
 
 

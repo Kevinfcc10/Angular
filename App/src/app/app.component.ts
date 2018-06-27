@@ -6,6 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css', './estilos.css']
 })
 export class AppComponent {
+  mostrarComponente = false;
+  contadorDesdePapa = 0;
   //Interpolacion
   titulo= 'Web';
   usuario = {
@@ -16,4 +18,19 @@ export class AppComponent {
   mostrarTitulo = true;
   imagenUrl = "https://cdn.oem.com.mx/laprensa/2017/08/futbol-soccer-mundial.png";
   imagenWidth = 200;
+
+  html = `
+  <h1>HOLA</h1>
+  <p>Hola mundo</p>
+  <img src="${this.imagenUrl}" alt="">
+`;
+
+  aumentarWidth(evento) {
+    console.log('evento', evento);
+    this.imagenWidth += 10;
+  }
+
+  restarWidth() {
+    this.imagenWidth -= 10;
+  }
 }
