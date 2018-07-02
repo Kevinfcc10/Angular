@@ -8,6 +8,35 @@ import { Component } from '@angular/core';
 export class AppComponent {
   mostrarComponente = false;
   contadorDesdePapa = 0;
+
+  arregloUsuarios = [
+    {
+      id:1,
+      imagen:'/assets/perfil.png',
+      texto:'tatis1909'
+    },
+    {
+      id:2,
+      imagen:'/assets/perfil2.png',
+      texto:'pedro'
+    },
+    {
+      id:3,
+      imagen:'/assets/perfil3.png',
+      texto:'Jeff'
+    },
+    {
+      id:4,
+      imagen:'/assets/perfil4.png',
+      texto:'Edd'
+    },
+    {
+      id:5,
+      imagen:'/assets/perfil5.png',
+      texto:'Nancy'
+    }
+  ];
+
   //Interpolacion
   titulo= 'Web';
   usuario = {
@@ -33,4 +62,13 @@ export class AppComponent {
   restarWidth() {
     this.imagenWidth -= 10;
   }
+
+  actualizarContador(contadorHijo) {
+    console.log('Se ejecuto', contadorHijo);
+
+    this.contadorDesdePapa = contadorHijo;
+  }
+
+
+
 }
