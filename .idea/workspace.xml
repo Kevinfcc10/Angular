@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea5cf20e-d6e8-4e17-85f6-d6027c31d925" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/src/assets/perfil.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/src/assets/perfil2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/src/assets/perfil3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/src/assets/perfil4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/src/assets/perfil5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rutas/src/app/app.routes.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/app/netflix/seleccion/seleccion.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/app/netflix/seleccion/seleccion.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/app/netflix/seleccion/seleccion.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/app/netflix/seleccion/seleccion.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/app/netflix/seleccion/seleccion.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/app/netflix/seleccion/seleccion.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +17,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App/src/app/app.component.ts">
+      <file leaf-file-name="app.routes.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/app.routes.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="415">
+              <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ruta-login.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/ruta-login/ruta-login.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="faq.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/faq/faq.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="faq.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/faq/faq.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="credenciales.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/servicios/credenciales.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autorizacion.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/servicios/autorizacion.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ruta-login.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/ruta-login/ruta-login.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -46,6 +108,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -66,6 +129,23 @@
         <option value="$PROJECT_DIR$/App/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/App/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/App/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/rutas/router.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/router.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/index.html" />
+        <option value="$PROJECT_DIR$/rutas/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/rutas/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/rutas/src/app/ruta-usuario/ruta-usuario.component.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/faq/faq.component.css" />
+        <option value="$PROJECT_DIR$/rutas/src/app/app.router.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/servicios/ruta-login/ruta-login.component.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/app.routes.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/servicios/credenciales.service.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/rutas/ruta-login/ruta-login.component.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/servicios/autorizacion.service.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/rutas/ruta-login/ruta-login.component.html" />
+        <option value="$PROJECT_DIR$/rutas/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/rutas/src/app/rutas/faq/faq.component.html" />
+        <option value="$PROJECT_DIR$/rutas/src/app/rutas/faq/faq.component.ts" />
       </list>
     </option>
   </component>
@@ -77,10 +157,12 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/App/node_modules" />
+    <handled-path value="$PROJECT_DIR$/rutas/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/App/package.json" />
+      <path value="$PROJECT_DIR$/rutas/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -104,13 +186,54 @@
             <path>
               <item name="Angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="Angular" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="Angular" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="faq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="ruta-login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servicios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,10 +252,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/App/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/rutas/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Semestres Poli\2018-A septimo\WEB\Proyectitos-Clase\Angular\rutas\src\app\rutas" />
       <recent name="E:\Semestres Poli\2018-A septimo\WEB\Proyectitos-Clase\Angular\App\src\assets" />
     </key>
   </component>
@@ -162,25 +286,27 @@
       <workItem from="1529935484905" duration="6477000" />
       <workItem from="1530115495382" duration="3382000" />
       <workItem from="1530121484843" duration="212000" />
-      <workItem from="1530546729185" duration="3196000" />
+      <workItem from="1530546729185" duration="13175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14105000" />
+    <option name="totallyTimeSpent" value="24084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.34976152" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.34976152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2541106" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.60413355" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.41494435" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23432343" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -189,7 +315,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,10 +513,124 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/router.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="81">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/faq/faq.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/ruta-usuario/ruta-usuario.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/ruta-login/ruta-login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/servicios/credenciales.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/servicios/autorizacion.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/ruta-login/ruta-login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/faq/faq.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutas/src/app/rutas/faq/faq.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
